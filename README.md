@@ -23,6 +23,7 @@ make 명령어로 컴파일한다.
 
 ## 6. 결과 확인
 1991(0x7c7) + 211(0xd3) = 2202(0x89a)
+![image](https://github.com/7d0x3e9/add-nbo/assets/121916836/653d1734-d026-48dd-aa39-a49d3aee43dc)
 
 
 ## 7. git push
